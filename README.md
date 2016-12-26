@@ -1,5 +1,4 @@
 # HomeServer
-these codes can be used to setup a NAS, of I say it HomeServer.</br>
 All Images : https://goo.gl/photos/UV3E7M2MDN5oqoZQ8</br></br>
 <img src='https://lh3.googleusercontent.com/IUEdIsSPXiBM4QhOEmm8CTQprakcmGwujQpOHmMmtCevDa-N2TNS8j9Ihdqfhj9mL5nKlzPaKWL7bU-rv6yVkPBeh0Fm5-A7hq8ufREvJz9tf9kkeM1-t0cEZzDmA0KpwiDscLm33O-aa85ytnmlnwOMjCviNWuKJLbDWPgjxhJCF59wUc-rzEiF9jRcDwXM9DkuXx_KSJEUatqSbo0PG1DmP4OVkj3nwRJRJSzhpiva2FAtL5pDDf1tLZx__Kw9y62zXyT9lFEMiciSohU-IUYIcxcbWJdSzFeQdQ_SNKkKQVVK_lo7DBXO-WcCL3XsHep4_qttcLTvdNObP1c_NgzNpYsN8EjSEdlvq_s4X-VHlcdV-4vEmSz3hrP13-PzFnERNvqNaPxNLbXTsscpMJW103MF8VVkwX1db-_Ei8e9rFpWBcsLCQDxr6-nlODg-qjVYYi6GSFCZOzHxVJCbBZdInYSBKx7FBvxU6ecegGH66Jvh8QBd9_8txnOO_0DinVvacavcKmo1g4IoPiNLKCRS7Inhmau1iK8wckyMb2ppQ68Hn1-X6r91lobAY3YxT6EObzo_S8hiBbdbifSKRc50PCBnTZLC4GcA7sy2-mlpoe-A7DXP-TL007n14OHN8mPfZjymqNTrA_zbnTKY5cDCtBi-3KZXROQ44K8lA=w936-h702-no' alt='Index_Page'>
 </br></br>
